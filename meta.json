@@ -1,0 +1,7 @@
+{
+  "type": "addons",
+  "slug": "transactions-import-json",
+  "name": "Transactions Import From JSON",
+  "mrdr": "addons",
+  "version": "1.0.0"
+}
